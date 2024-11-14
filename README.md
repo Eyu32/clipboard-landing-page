@@ -17,10 +17,6 @@ Users should be able to:
 
 ![Screenshot of My Work](./images/screencapture.png)
 
-### Links
-
-- Solution URL: [here]([https://github.com/Eyu32/clipboard-landing-page])
-- Live Site URL: [here]([https://eyu32.github.io/clipboard-landing-page/])
 
 ## My process
 
