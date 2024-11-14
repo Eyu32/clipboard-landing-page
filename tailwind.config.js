@@ -1,13 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./docs/*.{html,js}"],
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
     extend: {
       backgroundImage:{
-        'logo': "url('../images/logo.svg')",
-        'header-mobile': "url('../images/bg-header-mobile.png')",
-        'header-desktop': "url('../images/bg-header-desktop.png')",
-        'image-computer': 'url("../images/image-computer.png")'
+        'logo': "url('./images/logo.svg')",
+        'header-mobile': "url('./images/bg-header-mobile.png')",
+        'header-desktop': "url('./images/bg-header-desktop.png')",
+        'image-computer': 'url("./images/image-computer.png")'
       },
       fontFamily:{
         'Bai-Jamjuree': '"Bai Jamjuree", sans-serif'
