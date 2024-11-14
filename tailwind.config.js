@@ -5,9 +5,9 @@ module.exports = {
     extend: {
       backgroundImage:{
         'logo': "url('../images/logo.svg')",
-        'header-mobile': "url('../images/bg-header-mobile.png')",
-        'header-desktop': "url('../images/bg-header-desktop.png')",
-        'image-computer': 'url("../images/image-computer.png")'
+        'header-mobile': "url('./images/bg-header-mobile.png')",
+        'header-desktop': "url('./images/bg-header-desktop.png')",
+        'image-computer': 'url("./images/image-computer.png")'
       },
       fontFamily:{
         'Bai-Jamjuree': '"Bai Jamjuree", sans-serif'
