@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here]([https://github.com/Eyu32/clipboard-landing-page])
+- Live Site URL: [here]([https://eyu32.github.io/clipboard-landing-page/])
 
 ## My process
 
